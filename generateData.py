@@ -1,5 +1,3 @@
-from typing import List, Tuple
-
 def generate_rectangles(n, step): 
     rec = []
     for i in range(n):
